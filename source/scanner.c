@@ -1,4 +1,5 @@
 #include "scanner.h"
+#include <3ds.h>
 #include <stdio.h>
 #include <string.h>
 #include <dirent.h>
